@@ -3,14 +3,14 @@
 #####Aquest és un repositori creat per penjar totes les pràctiques diàries des del <em>18 d'Abril</em>. 
 <br>
 
-####Useful information:
+####Informació útil:
 <ol>
-<li>This is a <b>personal project</b>, aimed to improve both my <b>coding</b> and <b>logical thinking</b> skills.</li>
-<li><b>Every day</b> I will commit a new short program.</li>
-<li>Short programs are done in <b>1 to 3 hours</b>.</li>
+<li>Aquest és un <b>projecte personal</b>, enfocat a millorar les meves habilitats tant de <b>programació</b>, com de <b>pensament lògic</b>.</li>
+<li><b>Cada dia</b> intentaré fer un programa curt.</li>
+<li>Aquests programes curts es fan en <b>entre 1 i 3 hores</b>.</li>
 </ol>
 
-####Technical details:
+####Especificacions tècniques:
 <ol>
-All the practices are done with <a href="http://www.jupyter.org">Jupyter Notebook</a> and written in <a href="http://www.ipython.org">IPython</a>. All the IPython Notebooks posted in this repository are static, although they were thought and coded to be dynamic and interactive. In order to play with the widgets, the download and compilation of the IPython Notebooks is mandatory.
+Totes les pràctiques estan fetes amb <a href="http://www.jupyter.org">Jupyter Notebook</a> i escriten en <a href="http://www.ipython.org">IPython</a>. Totes les <em>IPython Notebooks</em> penjades en aques repository són estàtiques, encara que van ser pensades i programades per ser dinàmiques i interactives. Per tal de interactuar amb els <em>widgets</em>, la descàrrga i compilació de les IPython Notebooks és obligatori.
 </ol>
